@@ -20,7 +20,7 @@ float duration_us, distance1, distance2;
 
 #define board "ESP32"
 #define Voltage_Resolution 3.3
-#define pin 36
+#define pin 36 //pin vp
 #define type "MQ-135"
 #define ADC_Bit_Resolution 12
 #define RatioMQ135CleanAir 3.6
